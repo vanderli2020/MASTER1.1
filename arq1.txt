@@ -1,7 +1,7 @@
 <HTML>
 <HEAD><TITLE>ATIVIDADE DE VERSIONAMENTO</TITLE></HEAD>
 <BODY>
-   <h1> quase lá </h1>
+   <h1> quase </h1>
    <H1> VERSIONAMENTO </H1>
 </BODY>
 </HTML>
