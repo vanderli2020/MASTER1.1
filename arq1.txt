@@ -1,9 +1,0 @@
-<HTML>
-<HEAD><TITLE>ATIVIDADE DE VERSIONAMENTO</TITLE></HEAD>
-<BODY>
-   <h1> quase lá!!! </h1>
-   <h1> estou conseguindo entender </h1>
-   <H1> Danielle Tavares de Oliveira Reis E Vanderli Marques dos Reis </H1>
-   <H1> Estou començando a entender</H1>
-</BODY>
-</HTML>
